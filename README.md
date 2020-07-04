@@ -1,3 +1,3 @@
 # FaceDetection
 
-##Author : Nikhil Khairnar.
+ - Author -Nikhil Khairnar.
